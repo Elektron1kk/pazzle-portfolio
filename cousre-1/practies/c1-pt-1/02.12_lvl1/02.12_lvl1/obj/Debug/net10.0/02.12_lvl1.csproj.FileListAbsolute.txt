@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.AssemblyInfo.cs
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\bin\Debug\net10.0\02.12_lvl1.exe
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\bin\Debug\net10.0\02.12_lvl1.deps.json
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\bin\Debug\net10.0\02.12_lvl1.runtimeconfig.json
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\bin\Debug\net10.0\02.12_lvl1.dll
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\bin\Debug\net10.0\02.12_lvl1.pdb
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.dll
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\refint\02.12_lvl1.dll
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.pdb
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\02.12_lvl1.genruntimeconfig.cache
+C:\Users\User\source\repos\02.12_lvl1\02.12_lvl1\obj\Debug\net10.0\ref\02.12_lvl1.dll
